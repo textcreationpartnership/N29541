@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:039344_0000_10141E52E1413AB8"/>
-            <pb facs="tcp:039344_0001_10141E55972CE450" rendition="simple:additions"/>
+            <pb facs="unknown:039344_0000_10141E52E1413AB8"/>
+            <pb facs="unknown:039344_0001_10141E55972CE450"
+                rendition="simple:additions"/>
             <head>The Anſwer Of the Houſe of Repreſentatives, to His Excellency the Earl of BELLOMONT'S Speech, to the Honorable the COUNCIL, and Houſe of Repreſentatives, delivered by the Speaker and the whole Houſe in the Council Chamber in <hi>Boſton,</hi> on Tueſ<g ref="char:EOLhyphen"/>day the
 <date>6<hi>th.</hi> of <hi>June,</hi> 1699.</date>
             </head>
@@ -122,7 +123,8 @@
             <p>We Return Your Excellency our moſt humble Acknowledgments, that You have been pleaſed to aſſure us, of being undiſturbed in the Exerciſe of our Conſciences, which we hope Your Lordſhip ſhall alwayes ſee, we will Endeavour to Exerciſe void of Offence.</p>
             <p>And now after our Acknowledgments of Your Lordſhips most favourable Expreſſions of Your Reſolutions of Studying our Intereſt, We humbly Acquaint Your Excellency, that we are Reſolved obedi<g ref="char:EOLhyphen"/>ently to obſerve Your Lordſhip's Directions, in Reviving the Courts of Juſtice; and ſhall endeavour to form ſuch Acts of Aſſembly, as may be meet for His Majeſties Allowance when laid before Him.</p>
             <p>
-               <pb facs="tcp:039344_0002_10141E571F6212A8" rendition="simple:additions"/>That We will conſult ſuch wayes as may engage the Neighbour <hi>Indians,</hi> by ſome proper regulation of the Trade. That we will diligently Enquire into the Stores of War. That we will await and be ready to receive Your Excellency's Directions, referring to the Fortifications on the <hi>Castle-Iſland.</hi>
+               <pb facs="unknown:039344_0002_10141E571F6212A8"
+                   rendition="simple:additions"/>That We will conſult ſuch wayes as may engage the Neighbour <hi>Indians,</hi> by ſome proper regulation of the Trade. That we will diligently Enquire into the Stores of War. That we will await and be ready to receive Your Excellency's Directions, referring to the Fortifications on the <hi>Castle-Iſland.</hi>
             </p>
             <p>We alſo look upon our ſelves peculiarly obliged, to Expreſs our moſt grateful Reſentments, of Your Excellency's favourable Inclinations, to promote the Settlement of the <hi>Colledge</hi>; which under Almighty GOD, hath been the great Barrier againſt the Invaſions of Barbariſm, and Irreligion in this Country, and if ſetled upon an agreeable foot, will be the peculiar Glory, as well as Intereſt of this Province, above all other His Majeſties Plantations in <hi>America.</hi> And we ſhall be glad to take ſuch proper ſteps, for the Incorporation of that Society; as it may <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
